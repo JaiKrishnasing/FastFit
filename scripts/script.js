@@ -105,7 +105,7 @@ function redirect() {
 
   buttons.forEach((button) => {
     button.addEventListener("click", () => {
-      window.open("/pages/shop.html", "blank_");
+      window.open("./pages/shop.html", "blank_");
     });
   });
 }
@@ -137,9 +137,9 @@ function redirectUser() {
 
   icon.addEventListener("click", () => {
     if (!isUserLoggedIn) {
-      window.location.href = "pages/login.html";
+      window.location.href = "./pages/login.html";
     } else {
-      window.location.href = "pages/summary.html";
+      window.location.href = "./pages/summary.html";
     }
   });
 }
