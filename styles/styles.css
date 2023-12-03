@@ -176,8 +176,6 @@ nav ul li a:hover {
   border-color: grey;
   border-width: 1px;
   border-style: solid;
-  /* animation: buttonIn 0.6s ease-in-out;
-  animation-fill-mode: forwards; */
 }
 
 .landing-page {
@@ -198,8 +196,6 @@ nav ul li a:hover {
   background-color: white;
   height: 445vh;
   width: 100%;
-  /* animation: hamburgerIn 1.7s ease-in-out; */
-  /* animation: hamburgerOut 1.7s ease-in-out; */
 }
 
 .close-button {
@@ -521,7 +517,6 @@ nav ul li a:hover {
   text-align: center;
   top: -2vh;
   transform: scale(0.9);
-  /* background-color: green; */
   height: 40vh;
   width: 100%;
 }
@@ -531,7 +526,6 @@ nav ul li a:hover {
   top: 0;
   display: flex;
   align-items: center;
-  /* background-color: blue; */
   height: 10vh;
   width: 100%;
 }
@@ -616,16 +610,13 @@ nav ul li a:hover {
   background-color: rgb(18, 18, 18);
   top: 26vh;
   left: 2vw;
-  /* animation: buttonInForm 0.4s ease-in-out forwards; */
-  /* animation: buttonOutForm 0.4s ease-in-out forwards; */
+
 }
 
 .three {
   background-color: rgb(18, 18, 18);
   top: 30vh;
   left: 2vw;
-  /* animation: buttonInRecommend 0.4s ease-in-out forwards; */
-  /* animation: buttonOutRecommend 0.4s ease-in-out forwards; */
 }
 
 .input-form-intro {
