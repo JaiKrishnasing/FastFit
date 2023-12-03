@@ -156,21 +156,6 @@ nav ul li a:hover {
   pointer-events: auto;
 }
 
-/* .checkout-container {
-  display: flex;
-  border: 1px solid black;
-  position: relative;
-  background-color: white;
-  height: 785px;
-  width: 450px;
-  scale: 0.9;
-  margin-bottom: 50px;
-  margin-left: -10px;
-  object-fit: center;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-} */
 
 .checkout-container {
   display: flex;
@@ -199,13 +184,7 @@ nav ul li a:hover {
   }
 }
 
-/* @media (min-width: 640px) {
-  .checkout-container {
-    scale: 1;
-    margin-bottom: 0px;
-    margin-left: -40px;
-  }
-} */
+
 
 .checkout-content {
   position: absolute;
