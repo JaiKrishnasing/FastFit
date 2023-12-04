@@ -73,15 +73,6 @@ scrollToTop();
 window.addEventListener("resize", setHeight);
 window.addEventListener("load", setHeight);
 
-// function redirect(input, location) {
-//   input.addEventListener("click", () => {
-//     window.location.href = location;
-//   });
-// }
-
-// const icon = document.getElementById("icon-js");
-
-// redirect(icon, "login.html");
 
 function redirect() {
   const icon = document.getElementById("icon-js");
