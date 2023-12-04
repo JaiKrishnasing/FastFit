@@ -105,13 +105,13 @@
   }
 
   100% {
-    transform: translate(-3vw, 3.4vh);
+    transform: translate(-3vw, 3.7vh);
   }
 }
 
 @keyframes buttonOutAbout {
   0% {
-    transform: translate(-3vw, 3.4vh);
+    transform: translate(-3vw, 3.7vh);
   }
 
   100% {
