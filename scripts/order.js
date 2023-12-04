@@ -1,6 +1,6 @@
 const countdownText = document.getElementById("countdown-js");
 const orderIDText = document.getElementById("purchase-ordernumber-js");
-const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 const deliveryText = document.getElementById("purchase-delivery-js");
 const email = document.getElementById("purchase-confirmation-email-js");
 
